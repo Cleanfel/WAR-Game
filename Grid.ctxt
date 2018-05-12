@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grid
+comment1.params=
+comment1.target=Grid()
+comment2.params=aChar
+comment2.target=void\ addChar(Character)
+comment3.params=
+comment3.target=void\ updateCords()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

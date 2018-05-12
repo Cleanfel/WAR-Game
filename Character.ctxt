@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=aChar
+comment1.target=void\ attack(Character)
+comment10.params=x
+comment10.target=void\ setX(int)
+comment11.params=y
+comment11.target=void\ setY(int)
+comment2.params=
+comment2.target=java.lang.String\ getMapValue()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=aChar
+comment4.target=int\ getDistance(Character)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=int\ getHP()
+comment8.params=
+comment8.target=int\ getAmmo()
+comment9.params=hp
+comment9.target=void\ setHP(int)
+numComments=12

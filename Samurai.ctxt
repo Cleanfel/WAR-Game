@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Samurai
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment10.params=hp
+comment10.target=void\ setHP(int)
+comment11.params=x
+comment11.target=void\ setX(int)
+comment12.params=y
+comment12.target=void\ setY(int)
+comment2.params=opponent
+comment2.target=void\ attack(Character)
+comment3.params=
+comment3.target=java.lang.String\ getMapValue()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=aChar
+comment5.target=int\ getDistance(Character)
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=int\ getHP()
+comment9.params=
+comment9.target=int\ getAmmo()
+numComments=13

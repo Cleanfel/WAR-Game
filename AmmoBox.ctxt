@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AmmoBox
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=aChar
+comment2.target=void\ attack(Character)
+comment3.params=
+comment3.target=java.lang.String\ getMapValue()
+comment4.params=aChar
+comment4.target=int\ getDistance(Character)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=x
+comment7.target=void\ setX(int)
+comment8.params=y
+comment8.target=void\ setY(int)
+numComments=9
